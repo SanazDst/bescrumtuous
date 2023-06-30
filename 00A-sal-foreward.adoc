@@ -4,7 +4,7 @@
 (((declute))) 
 Hi! I'm Darcy DeClute.
 
-As I write this note I'm filled with a mix of conflicting and confusing emotions that range from humility to pride to embarassment.
+As I write this note I'm filled with a mix of conflicting and confusing emotions that range from humility to pride to embarrassment.
 
 .At home on native land. Baffin Island, Canada (((baffin island)))
 image::images/darcy-blubber.jpg["At home on native land. Baffin Island, Canada",250,250, float="right", align="center"]
